@@ -1,0 +1,5 @@
+ HI,
+ Hello,
+ Namste,
+ Adab,
+ this is text file for Jira add attchment rest api automation purpose
